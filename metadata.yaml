@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42173'
     url: http://www.gutenberg.org/2009/agents/42173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44297#Appletons-Popular-Science-Monthly-March-1899Volume-LIV-No.-5-March-1899
 gutenberg_issued: '2013-11-27'
 gutenberg_type: Text
 identifiers:
